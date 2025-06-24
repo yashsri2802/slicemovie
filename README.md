@@ -32,7 +32,7 @@
 
 ## 🌐 Live Demo
 
-🔗 [Click here to view the live site](https://your-netlify-site.netlify.app)
+🔗 [Click here to view the live site](https://slicemovie.netlify.app)
 
 ---
 
