@@ -24,6 +24,18 @@
 
 ---
 
+## 📸 Screenshot
+
+![SliceMovie Screenshot](./public/screenshot.png)
+
+---
+
+## 🌐 Live Demo
+
+🔗 [Click here to view the live site](https://your-netlify-site.netlify.app)
+
+---
+
 ## 🛠️ Setup Instructions
 
 1. **Clone the repository**  
