@@ -26,7 +26,7 @@
 
 ## 📸 Screenshot
 
-![SliceMovie Screenshot](./public/screenshot.png)
+![SliceMovie Screenshot](./react_router/public/screenshot.png)
 
 ---
 
