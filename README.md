@@ -34,7 +34,7 @@
    ```bash
    npm install
 3. **Add your OMDb API key**
-   Create a .env file in the root directory and add:
+   , create a .env file in the root directory and add:
    ```bash
    VITE_API_KEY=your_api_key_here
 4. **Run the development server**
