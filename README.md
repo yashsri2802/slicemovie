@@ -19,7 +19,7 @@
 
 - **React**
 - **React Router DOM**
-- **CSS Modules / Tailwind (optional depending on your setup)**
+- **CSS Modules**
 - **OMDb API**
 
 ---
